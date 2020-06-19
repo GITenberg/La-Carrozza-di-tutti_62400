@@ -1,5 +1,8 @@
 _repo: La-Carrozza-di-tutti_62400
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62400-h/images/cover.jpg
 creator:
   author:
     agent_name: De Amicis, Edmondo
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edmondo_De_Amicis
     - https://it.wikipedia.org/wiki/Edmondo_De_Amicis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62400#La-Carrozza-di-tutti
 gutenberg_bookshelf: IT Racconti
 gutenberg_issued: '2020-06-14'
 gutenberg_type: Text
